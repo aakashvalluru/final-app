@@ -36,9 +36,10 @@ namespace final_app
             if(t=='M'){
                 gender=true;
             }
+            double tax = 0.0;
             while(age ==18 || age ==19 || age ==17)                        
             {
-                double tax = 0.0;
+                
                 Console.WriteLine("Enter your income: ");
                 double income = Convert.ToDouble(Console.ReadLine());            
                 if(income  < 20000){
@@ -56,10 +57,11 @@ namespace final_app
                 Console.WriteLine($"You should pay {tax}");
                 Console.WriteLine();
                 break;
-            }
-
-            Console.WriteLine("Enter y if paid");
-            
-        }   
+            }                    
+            Console.WriteLine("Disc after total is: " +calcdisc(tax));
+        }  
+        public static double calcdisc(double a){
+                return a - 20;
+            } 
     }
 }
