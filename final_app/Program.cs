@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace final_app
 
@@ -60,8 +60,8 @@ namespace final_app
             }                    
             Console.WriteLine("Disc after total is: " +calcdisc(tax));
         }  
-        public static double calcdisc(double a){
-                return a - 20;
+        public static decimal calcdisc(double a){
+                return (decimal)(a - 20);
             } 
     }
 }
