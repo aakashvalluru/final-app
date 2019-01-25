@@ -50,8 +50,8 @@ namespace final_app
                 else{
                  tax = income - (income * 0.8);
                  }            
-                Console.WriteLine();//print name
-                Console.WriteLine();//print age
+                Console.WriteLine("your Name is {0}",name);//print name
+                Console.WriteLine("your age is {0}",age);//print age
                 Console.WriteLine("Gender:\t"+(gender?"Male":"Female"));//print gender
                 Console.WriteLine($"You should pay {tax}");
                 Console.WriteLine();
