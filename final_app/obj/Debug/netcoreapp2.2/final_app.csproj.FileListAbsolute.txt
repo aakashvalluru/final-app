@@ -9,3 +9,14 @@ D:\C#NET\final_app\obj\Debug\netcoreapp2.2\final_app.AssemblyInfoInputs.cache
 D:\C#NET\final_app\obj\Debug\netcoreapp2.2\final_app.AssemblyInfo.cs
 D:\C#NET\final_app\obj\Debug\netcoreapp2.2\final_app.dll
 D:\C#NET\final_app\obj\Debug\netcoreapp2.2\final_app.pdb
+D:\C#NET\final-app\final_app\bin\Debug\netcoreapp2.2\final_app.deps.json
+D:\C#NET\final-app\final_app\bin\Debug\netcoreapp2.2\final_app.runtimeconfig.json
+D:\C#NET\final-app\final_app\bin\Debug\netcoreapp2.2\final_app.runtimeconfig.dev.json
+D:\C#NET\final-app\final_app\bin\Debug\netcoreapp2.2\final_app.dll
+D:\C#NET\final-app\final_app\bin\Debug\netcoreapp2.2\final_app.pdb
+D:\C#NET\final-app\final_app\obj\Debug\netcoreapp2.2\final_app.csprojAssemblyReference.cache
+D:\C#NET\final-app\final_app\obj\Debug\netcoreapp2.2\final_app.csproj.CoreCompileInputs.cache
+D:\C#NET\final-app\final_app\obj\Debug\netcoreapp2.2\final_app.AssemblyInfoInputs.cache
+D:\C#NET\final-app\final_app\obj\Debug\netcoreapp2.2\final_app.AssemblyInfo.cs
+D:\C#NET\final-app\final_app\obj\Debug\netcoreapp2.2\final_app.dll
+D:\C#NET\final-app\final_app\obj\Debug\netcoreapp2.2\final_app.pdb
